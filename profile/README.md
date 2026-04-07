@@ -10,7 +10,6 @@
 |------|-------------|
 | [windmar-dev](https://github.com/windmar-nav/windmar-dev) | Core platform: React + FastAPI, A* & Dijkstra optimizers, Copernicus weather pipeline |
 | [windmar-demo](https://github.com/windmar-nav/windmar-demo) | Standalone Docker distribution for local evaluation |
-| [windmar-nav.github.io](https://github.com/windmar-nav/windmar-nav.github.io) | Legacy documentation (redirects to windmar.slmar.co) |
 
 ## Links
 
